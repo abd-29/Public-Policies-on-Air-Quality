@@ -1,0 +1,22 @@
+- ;- ;- ;Référence ;Référence ;Objectif;Objectif;Position par rapport aux objectifs;Position par rapport aux objectifs;Position par rapport aux objectifs;Position par rapport aux objectifs
+Substance;Unité;Protocole;Année;Niveau d'émission;Année ;Engagement relatif ou absolu;Année;Niveau d'émission;Ecart à l'objectif (%);Atteinte des objectifs
+SO2;Gg;1er  protocole SO2;1980-2005;3166-461;1993;-60%;1993;1069;-16%;Oui
+SO2;Gg;2ème protocole SO2;1980-2005;3166-461;2000;868;2000;628;-28%;Oui
+SO2;Gg;2ème protocole SO2;1980-2005;3166-461;2005;770;2005;461;-40%;Oui
+SO2;Gg;2ème protocole SO2;1980-2005;3166-461;2010;737;2010;285;-61%;Oui
+SO2;Gg;protocole de Göeteborg;1980-2005;3166-461;2010;400;2010;285;-29%;Oui
+SO2;Gg; directive NEC;1980-2005;3166-461;2010;375;2010;285;-24%;Oui
+SO2;Gg;protocole de Göterborg;1980-2005;3166-461;2020;-55%;2013;219;5%;en cours
+NOx;Gg;protocole NOx;1980;2007;1998;-30%;1998;1 709;22%;Non
+NOx;Gg;protocole NOx;1987;1831;1994;0%;1994;1 791;-2%;Oui
+NOx;Gg;protocole de Göeteborg;-;-;2010;860;2010;1 096;27%;Non
+NOx;Gg;directive NEC;-;-;2010;810;2010;1 096;35%;Non
+NOx;Gg;protocle de Göteborg;2005;1430;2020;-50%;2013;990;38%;en cours
+NH2;Gg;protocle de Göteborg;2005;714;2010;780;2010;729;-7%;Oui
+NH2;Gg;directive NEC;2005;714;2010;780;2010;729;-7%;Oui
+NH2;Gg;protocole de Göteborg;2005;714;2020;-4%;2013;718;5%;en cours
+COVNM;Gg;Protocole COVNM;1988;2523;1999;-30%;1999;1 777;1%;Non
+COVNM;Gg;protocole de Göteberg;-;-;2010;1 100;2010;874;-21%;Oui
+COVNM;Gg;directive NEC;-;-;2010;1 050;2010;874;-17%;Oui
+COVNM;Gg;protocole de Göteborg;2005;1239;2020;-43%;2013;758;7%;en cours
+PMg 1;Gg;protocole de Göteborg;2005;245;2020;-27%;2013;181;1%;en cours
